@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OFICINA - PAINEL (ANTI-SPA)
 // @namespace    http://fontanella/oficina
-// @version      2.1
+// @version      2.2
 // @description  Coleta e exibe mecânicos trabalhando, resistente a reload interno (React)
 // @match        https://erp.fontanellatransportes.com.br/app/oficina/*
 // @run-at       document-end
@@ -131,4 +131,5 @@
   });
 
 })();
+
 

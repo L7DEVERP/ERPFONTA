@@ -5,8 +5,8 @@
 // @description  Coleta e exibe mecânicos trabalhando, resistente a reload interno (React)
 // @match        https://erp.fontanellatransportes.com.br/app/oficina/*
 // @run-at       document-end
-// @downloadURL  https://github.com/usuario/repositorio/raw/main/script.user.js
-// @updateURL    https://github.com/usuario/repositorio/raw/main/script.user.js
+// @downloadURL  https://github.com/L7DEVERP/ERPFONTA/blob/main/OFICINA%20-%20PAINEL.user.js
+// @updateURL    https://github.com/L7DEVERP/ERPFONTA/blob/main/OFICINA%20-%20PAINEL.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -131,3 +131,4 @@
   });
 
 })();
+
